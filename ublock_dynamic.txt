@@ -78,6 +78,7 @@
 * sagepay.com * noop
 * alipay.com * noop
 * alipayobjects.com * noop
+paypal.com paypalobjects.com * allow
 
 ## User Comments
 * bazaarvoice.com * noop
