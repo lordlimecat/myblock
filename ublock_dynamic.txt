@@ -36,9 +36,9 @@
 ## Embedded images
 * twimg.com * noop
 * ssl-images-amazon.com * noop
-* https://www.bing.com image noop
+* https://www.bing.com image allow
 * s.yimg.com * noop
-* https://images.taboola.com image noop
+* https://images.taboola.com image allow
 
 ## Embedded Video
 * youtube.com * noop
@@ -78,7 +78,7 @@
 * sagepay.com * noop
 * alipay.com * noop
 * alipayobjects.com * noop
-paypal.com paypalobjects.com * allow
+
 
 ## User Comments
 * bazaarvoice.com * noop
@@ -402,7 +402,7 @@ shop.nordstrom.com nordstrommedia.com * noop
 nytimes.com nyt.com * noop
 
 ## paypal.com
-www.paypal.com paypalobjects.com * noop
+paypal.com paypalobjects.com * allow
 
 ## pinterest.com
 www.pinterest.com pinimg.com * noop
