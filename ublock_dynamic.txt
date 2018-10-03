@@ -34,6 +34,15 @@
 * res-x.com * noop
 * certona.net * noop
 
+## Stylesheets
+* https://www.blogger.com stylesheet noop
+
+## Fonts
+* typekit.net font noop
+* https://fonts.googleapis.com font noop
+* http://fonts.gstatic.com font noop
+* https://fonts.gstatic.com font noop
+
 ## Embedded images
 * twimg.com * noop
 * ssl-images-amazon.com * noop
@@ -66,11 +75,6 @@
 ## Common External script sources
 * ajax.googleapis.com * noop
 * sstatic.net * noop
-
-## Fonts
-* typekit.net font noop
-* fonts.googleapis.com font noop
-* fonts.gstatic.com font noop
 
 ## Authentication
 * auth0.com * noop
