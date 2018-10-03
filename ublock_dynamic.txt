@@ -28,6 +28,7 @@
 * sharepointonline.com * noop
 * alicdn.com * noop
 * amazonaws.com * noop
+* townnews.com * noop
 
 ## Online shopping
 * res-x.com * noop
@@ -55,9 +56,12 @@
 * jwpltx.com * noop
 * aiv-cdn.net * noop
 
-## Embedded WordPress
+## Embedded User Content
 * wp.com * noop
 * wordpress.com * noop
+* bp.blogspot.com * noop
+* bazaarvoice.com * noop
+* lithium.com * noop
 
 ## Common External script sources
 * ajax.googleapis.com * noop
@@ -80,9 +84,6 @@
 * alipayobjects.com * noop
 
 
-## User Comments
-* bazaarvoice.com * noop
-
 ## Online Learning
 * bbcollab.com * noop
 * blackboard.com * noop
@@ -100,8 +101,8 @@
 #### Local #####
 
 ## 9news.com.au
-www.9news.com.au ninemsn.com.au * noop
-www.9news.com.au static9.net.au * noop
+9news.com.au ninemsn.com.au * noop
+9news.com.au static9.net.au * noop
 
 ## Abe Books
 abebooks.com abebooks.com * noop
@@ -111,13 +112,13 @@ abebooks.com abebookscdn.com * noop
 federation-sts.accenture.com * 3p-script noop
 
 ## Amazon
-www.amazon.ca images-amazon.com * noop
-www.amazon.ca ssl-images-amazon.com * noop
-www.amazon.com images-amazon.com * noop
-www.amazon.com ssl-images-amazon.com * noop
+amazon.ca images-amazon.com * noop
+amazon.ca ssl-images-amazon.com * noop
+amazon.com images-amazon.com * noop
+amazon.com ssl-images-amazon.com * noop
 
 ## American Express
-www.americanexpress.com aexp-static.com * noop
+americanexpress.com aexp-static.com * noop
 global.americanexpress.com aexp-static.com * noop
 
 ## Aon Hewitt
@@ -135,32 +136,32 @@ arstechnica.com mediavoice.com * noop
 arstechnica.com cnevids.com * noop
 
 ## Bank of America
-www.bankofamerica.com bac-assets.com * noop
+bankofamerica.com bac-assets.com * noop
 
 ## battlecreekenquirer.com
-www.battlecreekenquirer.com gannett-cdn.com * noop
+battlecreekenquirer.com gannett-cdn.com * noop
 
 ## bbc.com
-www.bbc.com bbc.co.uk * noop
-www.bbc.com bbci.co.uk * noop
-www.bbc.com bbcimg.co.uk * noop
-www.bbc.com bbcverticals.com * noop
+bbc.com bbc.co.uk * noop
+bbc.com bbci.co.uk * noop
+bbc.com bbcimg.co.uk * noop
+bbc.com bbcverticals.com * noop
 
 ## BleepingComputer
 bleepingcomputer.com bleepstatic.com * noop
 
 ## bloomberg.com
-www.bloomberg.com bwbx.io * noop
-www.bloomberg.com gotraffic.net * noop
+bloomberg.com bwbx.io * noop
+bloomberg.com gotraffic.net * noop
 
 ## bloombergview.com
-www.bloombergview.com bloomberg.com * noop
-www.bloombergview.com btrd.net * noop
-www.bloombergview.com gotraffic.net * noop
+bloombergview.com bloomberg.com * noop
+bloombergview.com btrd.net * noop
+bloombergview.com gotraffic.net * noop
 
 ## buzzfeed.com
-www.buzzfeed.com buzzfed.com * noop
-www.buzzfeed.com instagram.com * noop
+buzzfeed.com buzzfed.com * noop
+buzzfeed.com instagram.com * noop
 
 ## Charles Schwab
 client.schwab.com schwabcdn.com * noop
@@ -172,20 +173,20 @@ chase.com chasecdn.com * noop
 cbsnews.com cbsistatic.com * noop
 
 ## chromium.org
-www.chromium.org gstatic.com * noop
+chromium.org gstatic.com * noop
 
 ## cnet.com
-www.cnet.com cbsimg.net * noop
-www.cnet.com cbsistatic.com * noop
+cnet.com cbsimg.net * noop
+cnet.com cbsistatic.com * noop
 
 ## cnn.com
-www.cnn.com turner.com * noop
+cnn.com turner.com * noop
 
 ## DailyMotion
-www.dailymotion.com dmcdn.net * noop
+dailymotion.com dmcdn.net * noop
 
 ## Dell
-www.dell.com dellcdn.com * noop
+dell.com dellcdn.com * noop
 
 ## deviantart.com
 deviantart.com deviantart.net * noop
@@ -194,56 +195,56 @@ deviantart.com deviantart.net * noop
 news.discovery.com ddmcdn.com * noop
 
 ## dropbox.com
-www.dropbox.com dropboxstatic.com * noop
+dropbox.com dropboxstatic.com * noop
 
 ## dslreports.com
-www.dslreports.com dslr.net * noop
+dslreports.com dslr.net * noop
 
 ## ebay.com
-www.ebay.com ebaydesc.com * noop
-www.ebay.com ebayimg.com * noop
-www.ebay.com ebaystatic.com * noop
+ebay.com ebaydesc.com * noop
+ebay.com ebayimg.com * noop
+ebay.com ebaystatic.com * noop
 
 ## economist.com
-www.economist.com static-economist.com * noop
+economist.com static-economist.com * noop
 
 ## engadget.com
-www.engadget.com 5min.com * noop
-www.engadget.com aolcdn.com * noop
-www.engadget.com blogcdn.com * noop
-www.engadget.com blogsmithmedia.com * noop
+engadget.com 5min.com * noop
+engadget.com aolcdn.com * noop
+engadget.com blogcdn.com * noop
+engadget.com blogsmithmedia.com * noop
 
 ## facebook.com
 facebook.com fbcdn.net * noop
 
 ## fastcompany.com
-www.fastcompany.com fastcompany.net * noop
-www.fastcodesign.com fastcompany.net * noop
+fastcompany.com fastcompany.net * noop
+fastcodesign.com fastcompany.net * noop
 
 ## Fidelity
 fidelity.com fid-inv.com * noop
 
 ## flickr.com
-www.flickr.com yimg.com * noop
+flickr.com yimg.com * noop
 
 ## fool.com
-www.fool.com foolcdn.com * noop
+fool.com foolcdn.com * noop
 
 ## fortune.com
 fortune.com akamai.net * noop
 
 ## Fox News
-www.fox.com foxdcg.com * allow
+fox.com foxdcg.com * allow
 foxnews.com fncstatic.com * noop
 
 ## ft.com
-www.ft.com ft-static.com * noop
+ft.com ft-static.com * noop
 
 ## funnyjunk.com
-www.funnyjunk.com fjcdn.com * noop
+funnyjunk.com fjcdn.com * noop
 
 ## gamefaqs.com
-www.gamefaqs.com gamefaqs.net * noop
+gamefaqs.com gamefaqs.net * noop
 
 ## github.com
 github.com avatars0.githubusercontent.com * noop
@@ -263,36 +264,36 @@ gizmodo.com kinja.com * noop
 ## Google Domains
 google.com googleusercontent.com * noop
 google.com gstatic.com * noop
-www.youtube.com content.googleapis.com * noop
-www.youtube.com ggpht.com * noop
-www.youtube.com google.com * noop
-www.youtube.com googleusercontent.com * noop
-www.youtube.com googlevideo.com * noop
-www.youtube.com gstatic.com * noop
-www.youtube.com plus.googleapis.com * noop
-www.youtube.com youtube-nocookie.com * noop
-www.youtube.com ytimg.com * noop
+youtube.com content.googleapis.com * noop
+youtube.com ggpht.com * noop
+youtube.com google.com * noop
+youtube.com googleusercontent.com * noop
+youtube.com googlevideo.com * noop
+youtube.com gstatic.com * noop
+youtube.com plus.googleapis.com * noop
+youtube.com youtube-nocookie.com * noop
+youtube.com ytimg.com * noop
 
 ## ign.com
-www.ign.com ignimgs.com * noop
+ign.com ignimgs.com * noop
 
 ## Hotwire
-www.hotwire.com hotwirestatic.com * noop
+hotwire.com hotwirestatic.com * noop
 
 ## Home Depot
 homedepot.com homedepot-static.com * noop
 
 ## houzz.com
-www.houzz.com hzcdn.com * noop
+houzz.com hzcdn.com * noop
 
 ## huffingtonpost.ca
-www.huffingtonpost.ca huffpost.com * noop
+huffingtonpost.ca huffpost.com * noop
 
 ## huffingtonpost.co.uk
-www.huffingtonpost.co.uk huffpost.com * noop
+huffingtonpost.co.uk huffpost.com * noop
 
 ## indiegogo.com
-www.indiegogo.com iggcdn.com * noop
+indiegogo.com iggcdn.com * noop
 
 ## JC Penney 
 jcpenney.com jcpapi.com * noop
@@ -304,27 +305,27 @@ blog.kaspersky.com kaspersky-cyberstat.com * noop
 blog.kaspersky.com kasperskycontenthub.com * noop
 
 ## kickstarter.com
-www.kickstarter.com imgix.net * noop
-www.kickstarter.com kck.st * noop
+kickstarter.com imgix.net * noop
+kickstarter.com kck.st * noop
 
 ## kijiji.ca
-www.kijiji.ca classistatic.com * noop
-www.kijiji.ca ebayimg.com * noop
+kijiji.ca classistatic.com * noop
+kijiji.ca ebayimg.com * noop
 
 ## KnowYourMeme
 knowyourmeme.com kym-cdn.com * noop
 
 ## lapresse.ca
-www.lapresse.ca lpcdn.ca * noop
+lapresse.ca lpcdn.ca * noop
 
 ## latimes.com
-www.latimes.com trbas.com * noop
-www.latimes.com trbimg.com * noop
-www.latimes.com tribdss.com * noop
-www.latimes.com tribune.com * noop
+latimes.com trbas.com * noop
+latimes.com trbimg.com * noop
+latimes.com tribdss.com * noop
+latimes.com tribune.com * noop
 
 ## lemonde.fr
-www.lemonde.fr lemde.fr * noop
+lemonde.fr lemde.fr * noop
 
 ## lifehacker.com
 lifehacker.com kinja-img.com * noop
@@ -332,17 +333,17 @@ lifehacker.com kinja-static.com * noop
 lifehacker.com kinja.com * noop
 
 ## linkedin.com
-www.linkedin.com licdn.com * noop
+linkedin.com licdn.com * noop
 
 ## lowes
-www.lowes.com lowescdn.com * noop
+lowes.com lowescdn.com * noop
 
 ## marketwatch.com
-www.marketwatch.com mktw.net * noop
-www.marketwatch.com wsj.net * noop
+marketwatch.com mktw.net * noop
+marketwatch.com wsj.net * noop
 
 ## macys
-www.macys.com macysassets.com * noop
+macys.com macysassets.com * noop
 
 ## mashable.com
 mashable.com mshcdn.com * noop
@@ -365,33 +366,33 @@ microsoft.com skype.com * noop
 ## mozilla.org
 mozilla.org mozilla.net * noop
 mozilla.org mozillademos.org * noop
-www.mozilla.org trackertest.org * noop
+mozilla.org trackertest.org * noop
 
 ## MSN
-www.msn.com gfx.ms * noop
-www.msn.com live.com * noop
-www.msn.com s-msn.com * noop
-www.msnbc.com s-nbcnews.com * noop
+msn.com gfx.ms * noop
+msn.com live.com * noop
+msn.com s-msn.com * noop
+msnbc.com s-nbcnews.com * noop
 
 ## mywot.com
-www.mywot.com mywot.net * noop
+mywot.com mywot.net * noop
 
 ## nbcnews.com
-www.nbcnews.com nbcudigitaladops.com * noop
-www.nbcnews.com s-nbcnews.com * noop
+nbcnews.com nbcudigitaladops.com * noop
+nbcnews.com s-nbcnews.com * noop
 
 ## navyfederal.org
 navyfederal.org getbills.com * noop
 
 ## netflix.com
-www.netflix.com nflxext.com * noop
+netflix.com nflxext.com * noop
 
 ## newegg.com
-www.newegg.com neweggimages.com * noop
+newegg.com neweggimages.com * noop
 
 ## news.com.au
-www.news.com.au newsapi.com.au * noop
-www.news.com.au newscdn.com.au * noop
+news.com.au newsapi.com.au * noop
+news.com.au newscdn.com.au * noop
 
 ## nordstrom.com
 shop.nordstrom.com nordstromdata.com * noop
@@ -405,54 +406,54 @@ nytimes.com nyt.com * noop
 paypal.com paypalobjects.com * allow
 
 ## pinterest.com
-www.pinterest.com pinimg.com * noop
+pinterest.com pinimg.com * noop
 
 ## polygon.com
-www.polygon.com vox-cdn.com * noop
+polygon.com vox-cdn.com * noop
 
 ## quora.com
-www.quora.com quoracdn.net * noop
+quora.com quoracdn.net * noop
 
 ## reddit.com
 reddit.com redditmedia.com * noop
 reddit.com redditstatic.com * noop
 reddit.com embedly.com * noop
-reddit.com i.redd.it * noop
+reddit.com redd.it * noop
 reddit.com gfycat.com * noop
 reddit.com imgur.com * noop
 
 ## reuters.com
-www.reuters.com reutersmedia.net * noop
-www.reuters.com reuters.tv * noop
+reuters.com reutersmedia.net * noop
+reuters.com reuters.tv * noop
 
 ## scribd.com
-www.scribd.com scribdassets.com * noop
+scribd.com scribdassets.com * noop
 
 ## seekingalpha.com
 seekingalpha.com cdn-seekingalpha.com * noop
 
 ## si.com
-www.si.com timeinc.net * noop
+si.com timeinc.net * noop
 
 ## slashdot.org
 slashdot.org bootstrapcdn.com * noop
 slashdot.org fsdn.com * noop
 
 ## slate.com
-www.slate.com cdnslate.com * noop
+slate.com cdnslate.com * noop
 
 ## slideshare.net
-www.slideshare.net slidesharecdn.com * noop
+slideshare.net slidesharecdn.com * noop
 
 ## softpedia.com
-www.softpedia.com softpedia-static.com * noop
+softpedia.com softpedia-static.com * noop
 
 ## Sourceforge
 sourceforge.net fsdn.com * noop
 sourceforge.net licdn.com * noop
 
 ## startribune.com
-www.startribune.com stimg.co * noop
+startribune.com stimg.co * noop
 
 ## taobao.com
 tmall.com alibaba.com * noop
@@ -466,16 +467,16 @@ techcrunch.com 5min.com * noop
 techcrunch.com wpcomwidgets.com * noop
 
 ## techrepublic.com
-www.techrepublic.com cbsimg.net * noop
-www.techrepublic.com cbsistatic.com * noop
+techrepublic.com cbsimg.net * noop
+techrepublic.com cbsistatic.com * noop
 
 ## ted.com
-www.ted.com tedcdn.com * noop
+ted.com tedcdn.com * noop
 
 ## theguardian.com
-www.theguardian.com guardianapps.co.uk * noop
-www.theguardian.com guim.co.uk * noop
-www.theguardian.com theguardian.tv * noop
+theguardian.com guardianapps.co.uk * noop
+theguardian.com guim.co.uk * noop
+theguardian.com theguardian.tv * noop
 profile.theguardian.com guardianapis.com * noop
 profile.theguardian.com guardianapps.co.uk * noop
 profile.theguardian.com guim.co.uk * noop
@@ -489,15 +490,15 @@ thenextweb.com * inline-script block
 theregister.co.uk regmedia.co.uk * noop
 
 ## theverge.com
-www.theverge.com vox-cdn.com * noop
-www.theverge.com voxmedia.com * noop
+theverge.com vox-cdn.com * noop
+theverge.com voxmedia.com * noop
 
 ## thenextweb.com
 thenextweb.com tnwcdn.com * noop
 
 ## tomshardware.com
-www.tomshardware.com bestofmedia.com * noop
-www.tomshardware.com bestofmicro.com * noop
+tomshardware.com bestofmedia.com * noop
+tomshardware.com bestofmicro.com * noop
 
 ## twitch.tv
 twitch.tv jtvnw.net * noop
@@ -508,8 +509,8 @@ twitch.tv ttvnw.net * noop
 twitter.com twimg.com * noop
 
 ## usatoday.com
-www.usatoday.com gannett-cdn.com * noop
-www.usatoday.com usatoday.net * noop
+usatoday.com gannett-cdn.com * noop
+usatoday.com usatoday.net * noop
 
 ## Vanguard
 vanguard.com vgcontent.info * noop
@@ -528,19 +529,19 @@ venturebeat.com vbstatic.co * noop
 vimeo.com vimeocdn.com * noop
 
 ## vox.com
-www.vox.com vox-cdn.com * noop
+vox.com vox-cdn.com * noop
 
 ## washingtonpost.com
-www.washingtonpost.com wpdigital.net * noop
+washingtonpost.com wpdigital.net * noop
 ## embedded videos
-www.washingtonpost.com jwpcdn.com * noop
-www.washingtonpost.com posttv.com * noop
+washingtonpost.com jwpcdn.com * noop
+washingtonpost.com posttv.com * noop
 
 ## wayfair.com
-www.wayfair.com wfcdn.com * noop
+wayfair.com wfcdn.com * noop
 
 ## wikia.com
-www.wikia.com nocookie.net * noop
+wikia.com nocookie.net * noop
 
 ## wikipedia.org
 wikipedia.org wikimedia.org * noop
@@ -549,17 +550,17 @@ wikipedia.org wikimedia.org * noop
 wiktionary.org wikimedia.org * noop
 
 ## wired.co.uk
-www.wired.co.uk d3u12z27ui3vom.cloudfront.net * noop
+wired.co.uk d3u12z27ui3vom.cloudfront.net * noop
 
 ## worldwildlife.org
-www.worldwildlife.org rackcdn.com * noop
+worldwildlife.org rackcdn.com * noop
 
 ## wsj.com
-www.wsj.com wsj.net * noop
+wsj.com wsj.net * noop
 
 ## ycombinator.com
 blog.ycombinator.com phaven-prod.s3.amazonaws.com * noop
 blog.ycombinator.com posthaven-assets.s3.amazonaws.com * noop
 
 ## zdnet.com
-www.zdnet.com cbsistatic.com * noop
+zdnet.com cbsistatic.com * noop
