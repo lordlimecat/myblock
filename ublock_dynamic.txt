@@ -40,6 +40,7 @@
 * https://fonts.googleapis.com stylesheet noop
 * https://hello.myfonts.net stylesheet noop
 * https://use.fontawesome.com stylesheet noop
+* https://twimgs.com stylesheet noop
 
 ## Fonts
 * typekit.net font noop
