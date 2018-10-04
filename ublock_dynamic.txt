@@ -31,6 +31,17 @@
 * amazonaws.com * noop
 * townnews.com * noop
 
+## Common Chinese CDNs
+* baidu.com * noop
+* baidustatic.com * noop
+* weibo.com * noop
+* sinatw.com * noop
+* sina.com.cn * noop
+* sina.com.tw * noop
+* sinaimg.cn * noop
+* sinajs.cn * noop
+
+
 ## Online shopping
 * res-x.com * noop
 * certona.net * noop
@@ -592,6 +603,10 @@ wsj.com wsj.net * noop
 ## ycombinator.com
 blog.ycombinator.com phaven-prod.s3.amazonaws.com * noop
 blog.ycombinator.com posthaven-assets.s3.amazonaws.com * noop
+
+## yandex.com
+yandex.com yandex.ru * noop
+yandex.com yastatic.net * noop
 
 ## zdnet.com
 zdnet.com cbsistatic.com * noop
