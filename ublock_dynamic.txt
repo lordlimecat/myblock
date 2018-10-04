@@ -37,6 +37,7 @@
 
 ## Stylesheets
 * https://www.blogger.com stylesheet noop
+* https://fonts.googleapis.com stylesheet noop
 
 ## Fonts
 * typekit.net font noop
@@ -269,6 +270,7 @@ gizmodo.com kinja.com * noop
 ## Google Domains
 google.com googleusercontent.com * noop
 google.com gstatic.com * noop
+google.com ggpht.com * noop
 youtube.com content.googleapis.com * noop
 youtube.com ggpht.com * noop
 youtube.com google.com * noop
@@ -391,6 +393,9 @@ navyfederal.org getbills.com * noop
 
 ## netflix.com
 netflix.com nflxext.com * noop
+netflix.com nflximg.net * noop
+netflix.com nflxso.net * noop
+netflix.com nflxvideo.net * noop
 
 ## newegg.com
 newegg.com neweggimages.com * noop
