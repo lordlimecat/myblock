@@ -273,6 +273,9 @@ flickr.com yimg.com * noop
 ## fool.com
 fool.com foolcdn.com * noop
 
+## forbes.com
+forbes.com forbesimg.com * noop
+
 ## fortune.com
 fortune.com akamai.net * noop
 
@@ -555,6 +558,8 @@ tomshardware.com bestofmicro.com * noop
 twitch.tv jtvnw.net * noop
 twitch.tv swiftype.com * noop
 twitch.tv ttvnw.net * noop
+twitch.tv twitchcdn.net * noop
+twitch.tv twitchsvc.net * noop
 
 ## twitter.com
 twitter.com twimg.com * noop
