@@ -38,6 +38,8 @@
 ## Stylesheets
 * https://www.blogger.com stylesheet noop
 * https://fonts.googleapis.com stylesheet noop
+* https://hello.myfonts.net stylesheet noop
+
 
 ## Fonts
 * typekit.net font noop
@@ -51,6 +53,7 @@
 * https://www.bing.com image allow
 * s.yimg.com * noop
 * https://images.taboola.com image allow
+* https://lh3.googleusercontent.com image noop
 
 ## Embedded Video
 * youtube.com * noop
@@ -66,6 +69,7 @@
 * jwplatform.com * noop
 * jwpltx.com * noop
 * aiv-cdn.net * noop
+* aiv-delivery.net * noop
 
 ## Embedded User Content
 * wp.com * noop
