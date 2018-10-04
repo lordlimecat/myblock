@@ -1,4 +1,5 @@
 ## the default-deny rules
+* * 3p block
 * * 3p-script block
 * * 3p-frame block
 
