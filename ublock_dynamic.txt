@@ -128,6 +128,10 @@
 
 #### Local #####
 
+## 360.cn
+360.cn qhimg.com * noop
+360.cn qhmsg.com * noop
+
 ## 9news.com.au
 9news.com.au ninemsn.com.au * noop
 9news.com.au static9.net.au * noop
