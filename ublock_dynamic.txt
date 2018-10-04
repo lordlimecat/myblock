@@ -39,13 +39,15 @@
 * https://www.blogger.com stylesheet noop
 * https://fonts.googleapis.com stylesheet noop
 * https://hello.myfonts.net stylesheet noop
-
+* https://use.fontawesome.com stylesheet noop
 
 ## Fonts
 * typekit.net font noop
 * https://fonts.googleapis.com font noop
 * http://fonts.gstatic.com font noop
 * https://fonts.gstatic.com font noop
+* https://use.fontawesome.com script noop
+* https://use.fontawesome.com font noop
 
 ## Embedded images
 * twimg.com * noop
