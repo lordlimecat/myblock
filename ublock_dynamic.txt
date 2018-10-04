@@ -187,6 +187,9 @@ bbc.co.uk bbci.co.uk * noop
 ## BleepingComputer
 bleepingcomputer.com bleepstatic.com * noop
 
+## blogspot.com
+blogspot.com blogger.com * noop
+
 ## bloomberg.com
 bloomberg.com bwbx.io * noop
 bloomberg.com gotraffic.net * noop
