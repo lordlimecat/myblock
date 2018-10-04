@@ -234,6 +234,9 @@ engadget.com aolcdn.com * noop
 engadget.com blogcdn.com * noop
 engadget.com blogsmithmedia.com * noop
 
+## etsy.com
+etsy.com etsystatic.com * noop
+
 ## facebook.com
 facebook.com fbcdn.net * noop
 
@@ -480,12 +483,12 @@ sourceforge.net licdn.com * noop
 ## startribune.com
 startribune.com stimg.co * noop
 
-## taobao.com
+## tmall.com
 tmall.com alibaba.com * noop
 tmall.com aliyun.com * noop
 tmall.com taobao.com * noop
 tmall.com tbcdn.cn * noop
-
+tmall.com mmstat.com * noop
 
 ## techcrunch.com
 techcrunch.com 5min.com * noop
