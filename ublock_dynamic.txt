@@ -140,6 +140,9 @@ global.americanexpress.com aexp-static.com * noop
 alight.com hacontent.com * noop
 alight.com hewitt.com * noop
 
+## Apple.com
+apple.com mzstatic.com * noop
+
 ## arewee10syet.com
 arewee10syet.com cdnjs.cloudflare.com * noop
 arewee10syet.com mozilla.org * noop
