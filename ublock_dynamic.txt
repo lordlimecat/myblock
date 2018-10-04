@@ -40,6 +40,8 @@
 * sina.com.tw * noop
 * sinaimg.cn * noop
 * sinajs.cn * noop
+* sina.net * noop
+* sina.cn * noop
 
 
 ## Online shopping
