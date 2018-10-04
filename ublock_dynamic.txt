@@ -443,6 +443,7 @@ reddit.com imgur.com * noop
 ## reuters.com
 reuters.com reutersmedia.net * noop
 reuters.com reuters.tv * noop
+reuters.com wallst.com * noop
 
 ## scribd.com
 scribd.com scribdassets.com * noop
