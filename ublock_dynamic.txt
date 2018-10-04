@@ -319,6 +319,9 @@ huffingtonpost.co.uk huffpost.com * noop
 ## indiegogo.com
 indiegogo.com iggcdn.com * noop
 
+## instgram.com
+instagram.com cdninstagram.com * noop
+
 ## JC Penney 
 jcpenney.com jcpapi.com * noop
 jcpenney.com scene7.com * noop
