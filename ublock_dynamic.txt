@@ -54,6 +54,8 @@
 * s.yimg.com * noop
 * https://images.taboola.com image allow
 * https://lh3.googleusercontent.com image noop
+* https://lh6.googleusercontent.com image noop
+* https://www.google.com/s2/ image noop
 
 ## Embedded Video
 * youtube.com * noop
@@ -156,6 +158,8 @@ bbc.com bbc.co.uk * noop
 bbc.com bbci.co.uk * noop
 bbc.com bbcimg.co.uk * noop
 bbc.com bbcverticals.com * noop
+bbc.co.uk bbc.com * noop
+bbc.co.uk bbci.co.uk * noop
 
 ## BleepingComputer
 bleepingcomputer.com bleepstatic.com * noop
