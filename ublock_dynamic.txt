@@ -24,12 +24,15 @@
 * netdna-ssl.com * noop
 * boxcdn.net * noop
 * box.com * noop
+* boxcloud.com * noop
 * wix.com * noop
 * monkcms.com * noop
 * sharepointonline.com * noop
 * alicdn.com * noop
-* amazonaws.com * noop
 * townnews.com * noop
+* bootstrapcdn.com * noop
+* googleusercontent.com * noop
+* maps.googleapis.com * noop
 
 ## Common Chinese CDNs
 * baidu.com * noop
@@ -222,6 +225,11 @@ cnet.com cbsistatic.com * noop
 ## cnn.com
 cnn.com turner.com * noop
 
+## computerworld.com
+computerworld.com idgesg.net * noop
+computerworld.com staticworld.net * noop
+computerworld.com techhive.com * noop
+
 ## DailyMotion
 dailymotion.com dmcdn.net * noop
 
@@ -364,6 +372,7 @@ kijiji.ca ebayimg.com * noop
 
 ## KnowYourMeme
 knowyourmeme.com kym-cdn.com * noop
+knowyourmeme.com embedly.com * noop
 
 ## lapresse.ca
 lapresse.ca lpcdn.ca * noop
@@ -411,6 +420,9 @@ office.com * 3p noop
 sharepoint.com * 3p noop
 microsoft.com microsoftonline.com * noop
 microsoft.com skype.com * noop
+sharepoint.com live.com * noop
+sharepoint.com microsoft.com * noop
+sharepoint.com office.net * noop
 
 
 ## mozilla.org
@@ -436,9 +448,12 @@ navyfederal.org getbills.com * noop
 
 ## netflix.com
 netflix.com nflxext.com * noop
-netflix.com nflximg.net * noop
 netflix.com nflxso.net * noop
 netflix.com nflxvideo.net * noop
+netflix.com nflximg.net * allow
+
+## networkworld.com
+networkworld.com idgesg.net * noop
 
 ## newegg.com
 newegg.com neweggimages.com * noop
@@ -474,6 +489,8 @@ reddit.com embedly.com * noop
 reddit.com redd.it * noop
 reddit.com gfycat.com * noop
 reddit.com imgur.com * noop
+snew.github.io pushshift.io * noop
+snew.github.io reddit.com * noop
 
 ## reuters.com
 reuters.com reutersmedia.net * noop
@@ -527,13 +544,15 @@ techrepublic.com cbsistatic.com * noop
 ## ted.com
 ted.com tedcdn.com * noop
 
+## techtarget.com
+techtarget.com ttgtmedia.com * noop
+
 ## theguardian.com
 theguardian.com guardianapps.co.uk * noop
 theguardian.com guim.co.uk * noop
 theguardian.com theguardian.tv * noop
-profile.theguardian.com guardianapis.com * noop
 profile.theguardian.com guardianapps.co.uk * noop
-profile.theguardian.com guim.co.uk * noop
+
 
 ## thenextweb.com
 thenextweb.com tnwcdn.com * noop
@@ -605,8 +624,6 @@ wikipedia.org wikimedia.org * noop
 ## wiktionary.org
 wiktionary.org wikimedia.org * noop
 
-## wired.co.uk
-wired.co.uk d3u12z27ui3vom.cloudfront.net * noop
 
 ## worldwildlife.org
 worldwildlife.org rackcdn.com * noop
@@ -614,9 +631,8 @@ worldwildlife.org rackcdn.com * noop
 ## wsj.com
 wsj.com wsj.net * noop
 
-## ycombinator.com
-blog.ycombinator.com phaven-prod.s3.amazonaws.com * noop
-blog.ycombinator.com posthaven-assets.s3.amazonaws.com * noop
+## US Government intra-site
+gov gov * noop
 
 ## yandex.com
 yandex.com yandex.ru * noop
