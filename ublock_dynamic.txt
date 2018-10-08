@@ -163,10 +163,6 @@ alight.com hewitt.com * noop
 ## Apple.com
 apple.com mzstatic.com * noop
 
-## arewee10syet.com
-arewee10syet.com cdnjs.cloudflare.com * noop
-arewee10syet.com mozilla.org * noop
-arewee10syet.com spreadsheets.google.com * noop
 
 ## arstechnica.com
 arstechnica.com arstechnica.net * noop
