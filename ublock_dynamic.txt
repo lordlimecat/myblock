@@ -301,14 +301,7 @@ funnyjunk.com fjcdn.com * noop
 gamefaqs.com gamefaqs.net * noop
 
 ## github.com
-github.com avatars0.githubusercontent.com * noop
-github.com avatars1.githubusercontent.com * noop
-github.com avatars2.githubusercontent.com * noop
-github.com avatars3.githubusercontent.com * noop
-github.com camo.githubusercontent.com * noop
-github.com cloud.githubusercontent.com * noop
-github.com raw.githubusercontent.com * noop
-github.com render.githubusercontent.com * noop
+github.com githubusercontent.com * noop
 
 ## gizmodo.com
 gizmodo.com kinja-img.com * noop
@@ -463,9 +456,9 @@ news.com.au newsapi.com.au * noop
 news.com.au newscdn.com.au * noop
 
 ## nordstrom.com
-shop.nordstrom.com nordstromdata.com * noop
-shop.nordstrom.com nordstromimage.com * noop
-shop.nordstrom.com nordstrommedia.com * noop
+nordstrom.com nordstromdata.com * noop
+nordstrom.com nordstromimage.com * noop
+nordstrom.com nordstrommedia.com * noop
 
 ## nytimes.com
 nytimes.com nyt.com * noop
@@ -507,7 +500,6 @@ seekingalpha.com cdn-seekingalpha.com * noop
 si.com timeinc.net * noop
 
 ## slashdot.org
-slashdot.org bootstrapcdn.com * noop
 slashdot.org fsdn.com * noop
 
 ## slate.com
@@ -551,7 +543,6 @@ techtarget.com ttgtmedia.com * noop
 theguardian.com guardianapps.co.uk * noop
 theguardian.com guim.co.uk * noop
 theguardian.com theguardian.tv * noop
-profile.theguardian.com guardianapps.co.uk * noop
 
 
 ## thenextweb.com
