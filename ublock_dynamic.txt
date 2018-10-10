@@ -84,6 +84,7 @@
 * brightcove.com * noop
 * brightcove.net * noop
 * vimeo.com * noop
+* vimeocdn.com * noop
 * media-amazon.com * noop
 * jquery.com * noop
 * jwpcdn.com * noop
@@ -140,7 +141,6 @@
 9news.com.au static9.net.au * noop
 
 ## Abe Books
-abebooks.com abebooks.com * noop
 abebooks.com abebookscdn.com * noop
 
 ## Accenture
@@ -154,7 +154,6 @@ amazon.com ssl-images-amazon.com * noop
 
 ## American Express
 americanexpress.com aexp-static.com * noop
-global.americanexpress.com aexp-static.com * noop
 
 ## Aon Hewitt
 alight.com hacontent.com * noop
@@ -162,7 +161,6 @@ alight.com hewitt.com * noop
 
 ## Apple.com
 apple.com mzstatic.com * noop
-
 
 ## arstechnica.com
 arstechnica.com arstechnica.net * noop
