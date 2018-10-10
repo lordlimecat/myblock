@@ -164,7 +164,6 @@ apple.com mzstatic.com * noop
 
 ## arstechnica.com
 arstechnica.com arstechnica.net * noop
-arstechnica.com mediavoice.com * noop
 arstechnica.com cnevids.com * noop
 
 ## Bank of America
