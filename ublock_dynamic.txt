@@ -508,6 +508,9 @@ softpedia.com softpedia-static.com * noop
 sourceforge.net fsdn.com * noop
 sourceforge.net licdn.com * noop
 
+## spiceworks.com
+spiceworks.com spiceworksstatic.com * noop
+
 ## startribune.com
 startribune.com stimg.co * noop
 
