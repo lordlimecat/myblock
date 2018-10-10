@@ -560,6 +560,7 @@ thenextweb.com tnwcdn.com * noop
 ## tomshardware.com
 tomshardware.com bestofmedia.com * noop
 tomshardware.com bestofmicro.com * noop
+tomshardware.com purch.com * noop
 
 ## twitch.tv
 twitch.tv jtvnw.net * noop
