@@ -305,6 +305,7 @@ gizmodo.com kinja.com * noop
 google.com googleusercontent.com * noop
 google.com gstatic.com * noop
 google.com ggpht.com * noop
+google.com youtube.googleapis.com * noop
 youtube.com content.googleapis.com * noop
 youtube.com ggpht.com * noop
 youtube.com google.com * noop
