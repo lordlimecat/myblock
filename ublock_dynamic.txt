@@ -406,7 +406,7 @@ login.microsoftonline.com * 3p noop
 office.com * 3p noop
 sharepoint.com * 3p noop
 microsoft.com microsoftonline.com * noop
-microsoft.com microsoftonline-p.com * noop
+login.microsoft.com microsoftonline-p.com * noop
 microsoft.com skype.com * noop
 sharepoint.com live.com * noop
 sharepoint.com microsoft.com * noop
