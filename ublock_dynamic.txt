@@ -16,6 +16,7 @@
 ## Various Common CDNs and static content
 * cloudfront.net * noop
 * s3.amazonaws.com * noop
+* amazonaws.com * noop
 * akamaihd.net * noop
 * akamaized.net * noop
 * cloudflare.com * noop
@@ -408,14 +409,13 @@ login.microsoftonline.com * 3p noop
 office.com * 3p noop
 sharepoint.com * 3p noop
 microsoft.com microsoftonline.com * noop
-login.microsoft.com microsoftonline-p.com * allow
+microsoft.com microsoftonline-p.com * allow
 microsoft.com skype.com * noop
 sharepoint.com live.com * noop
 sharepoint.com microsoft.com * noop
 sharepoint.com office.net * noop
 office.com msocdn.com * noop
 office.com office365.com * noop
-
 
 ## mozilla.org
 mozilla.org mozilla.net * noop
