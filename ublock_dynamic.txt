@@ -463,6 +463,9 @@ nordstrom.com nordstrommedia.com * noop
 ## nytimes.com
 nytimes.com nyt.com * noop
 
+## OpenTable
+* otstatic.com * noop
+
 ## paypal.com
 paypal.com paypalobjects.com * allow
 
