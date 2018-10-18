@@ -33,6 +33,7 @@
 * bootstrapcdn.com * noop
 * googleusercontent.com * noop
 * maps.googleapis.com * noop
+* akamaihd.net * noop
 
 ## Common Chinese CDNs
 * baidu.com * noop
@@ -107,6 +108,7 @@
 ## Authentication
 * auth0.com * noop
 * symantec.com * noop
+* funcaptcha.com * noop
 
 ## Online Payments and financials
 * plaid.com * noop
@@ -411,6 +413,8 @@ microsoft.com skype.com * noop
 sharepoint.com live.com * noop
 sharepoint.com microsoft.com * noop
 sharepoint.com office.net * noop
+office.com msocdn.com * noop
+office.com office365.com * noop
 
 
 ## mozilla.org
@@ -604,6 +608,9 @@ washingtonpost.com posttv.com * noop
 
 ## wayfair.com
 wayfair.com wfcdn.com * noop
+
+## webtask.io
+webtask.io unpkg.com * noop
 
 ## wikia.com
 wikia.com nocookie.net * noop
