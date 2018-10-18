@@ -76,6 +76,7 @@
 * https://lh3.googleusercontent.com image noop
 * https://lh6.googleusercontent.com image noop
 * https://www.google.com/s2/ image noop
+* webcollage.net * noop
 
 ## Embedded Video
 * youtube.com * noop
