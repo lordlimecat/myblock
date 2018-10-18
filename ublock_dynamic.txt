@@ -148,6 +148,7 @@ abebooks.com abebookscdn.com * noop
 
 ## Accenture
 federation-sts.accenture.com * 3p-script noop
+accenture.com touchcast.com * noop
 
 ## Amazon
 amazon.ca images-amazon.com * noop
