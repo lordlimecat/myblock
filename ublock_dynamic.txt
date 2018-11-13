@@ -33,7 +33,11 @@
 * bootstrapcdn.com * noop
 * googleusercontent.com * noop
 * maps.googleapis.com * noop
+* content.googleapis.com * noop
 * akamaihd.net * noop
+* discourse-cdn-sjc1.com * noop
+* datatables.net * noop
+* msecnd.net * noop
 
 ## Common Chinese CDNs
 * baidu.com * noop
@@ -77,6 +81,8 @@
 * https://lh6.googleusercontent.com image noop
 * https://www.google.com/s2/ image noop
 * webcollage.net * noop
+* pinimg.com * noop
+* pinterest.com * noop
 
 ## Embedded Video
 * youtube.com * noop
@@ -110,6 +116,7 @@
 * auth0.com * noop
 * symantec.com * noop
 * funcaptcha.com * noop
+* captcha.com * noop
 
 ## Online Payments and financials
 * plaid.com * noop
@@ -149,6 +156,7 @@ abebooks.com abebookscdn.com * noop
 ## Accenture
 federation-sts.accenture.com * 3p-script noop
 accenture.com touchcast.com * noop
+accenture.com sfbassets.com * allow
 
 ## Amazon
 amazon.ca images-amazon.com * noop
@@ -297,8 +305,12 @@ funnyjunk.com fjcdn.com * noop
 ## gamefaqs.com
 gamefaqs.com gamefaqs.net * noop
 
+## gearbest.com
+gearbest.com gbtcdn.com * noop
+
 ## github.com
 github.com githubusercontent.com * noop
+github.com githubapp.com * noop
 
 ## gizmodo.com
 gizmodo.com kinja-img.com * noop
@@ -348,6 +360,11 @@ instagram.com cdninstagram.com * noop
 jcpenney.com jcpapi.com * noop
 jcpenney.com scene7.com * noop
 jcpenney.com static-jcpenney.com * noop
+
+## joybuy.com
+joybuy.com 360buyimg.com * noop
+joybuy.com jd.com * noop
+joybuy.com joybuy.com * noop
 
 ## kaspersky.com
 blog.kaspersky.com kaspersky-cyberstat.com * noop
@@ -412,6 +429,8 @@ sharepoint.com * 3p noop
 microsoft.com microsoftonline.com * noop
 microsoft.com microsoftonline-p.com * allow
 microsoft.com skype.com * noop
+microsoft.com aspnetcdn.com * noop
+microsoft.com s-msft.com * noop
 sharepoint.com live.com * noop
 sharepoint.com microsoft.com * noop
 sharepoint.com office.net * noop
@@ -431,6 +450,10 @@ msnbc.com s-nbcnews.com * noop
 
 ## mywot.com
 mywot.com mywot.net * noop
+
+## nbc.com
+nbc.com nbcuni.com * noop
+nbc.com theplatform.com * noop
 
 ## nbcnews.com
 nbcnews.com nbcudigitaladops.com * noop
@@ -482,6 +505,7 @@ quora.com quoracdn.net * noop
 reddit.com redditmedia.com * noop
 reddit.com redditstatic.com * noop
 reddit.com embedly.com * noop
+reddit.com embed.ly * noop
 reddit.com redd.it * noop
 reddit.com gfycat.com * noop
 reddit.com imgur.com * noop
@@ -502,14 +526,24 @@ seekingalpha.com cdn-seekingalpha.com * noop
 ## si.com
 si.com timeinc.net * noop
 
+## slack.com
+slack.com slack-edge.com * noop
+
 ## slashdot.org
 slashdot.org fsdn.com * noop
 
 ## slate.com
 slate.com cdnslate.com * noop
 
+## slickdeals.net
+slickdeals.net slickdealscdn.com * noop
+
 ## slideshare.net
 slideshare.net slidesharecdn.com * noop
+
+## smartthings.com
+smartthings.com google.com * noop
+smartthings.com gstatic.com * noop
 
 ## softpedia.com
 softpedia.com softpedia-static.com * noop
@@ -517,6 +551,9 @@ softpedia.com softpedia-static.com * noop
 ## Sourceforge
 sourceforge.net fsdn.com * noop
 sourceforge.net licdn.com * noop
+
+## speedtest.net
+speedtest.net cdnst.net * noop
 
 ## spiceworks.com
 spiceworks.com spiceworksstatic.com * noop
@@ -597,6 +634,9 @@ veetle.com 38.102.162.254 * noop
 
 ## venturebeat.com
 venturebeat.com vbstatic.co * noop
+
+## verizon.com
+verizon.com vzw.com * noop
 
 ## vimeo.com
 vimeo.com vimeocdn.com * noop
